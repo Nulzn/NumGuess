@@ -1,0 +1,14 @@
+C:\Users\nilsr\Downloads\.NET-Projects\bin\Debug\net8.0\.NET-Projects.exe
+C:\Users\nilsr\Downloads\.NET-Projects\bin\Debug\net8.0\.NET-Projects.deps.json
+C:\Users\nilsr\Downloads\.NET-Projects\bin\Debug\net8.0\.NET-Projects.runtimeconfig.json
+C:\Users\nilsr\Downloads\.NET-Projects\bin\Debug\net8.0\.NET-Projects.dll
+C:\Users\nilsr\Downloads\.NET-Projects\bin\Debug\net8.0\.NET-Projects.pdb
+C:\Users\nilsr\Downloads\.NET-Projects\obj\Debug\net8.0\.NET-Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilsr\Downloads\.NET-Projects\obj\Debug\net8.0\.NET-Projects.AssemblyInfoInputs.cache
+C:\Users\nilsr\Downloads\.NET-Projects\obj\Debug\net8.0\.NET-Projects.AssemblyInfo.cs
+C:\Users\nilsr\Downloads\.NET-Projects\obj\Debug\net8.0\.NET-Projects.csproj.CoreCompileInputs.cache
+C:\Users\nilsr\Downloads\.NET-Projects\obj\Debug\net8.0\.NET-Projects.dll
+C:\Users\nilsr\Downloads\.NET-Projects\obj\Debug\net8.0\refint\.NET-Projects.dll
+C:\Users\nilsr\Downloads\.NET-Projects\obj\Debug\net8.0\.NET-Projects.pdb
+C:\Users\nilsr\Downloads\.NET-Projects\obj\Debug\net8.0\.NET-Projects.genruntimeconfig.cache
+C:\Users\nilsr\Downloads\.NET-Projects\obj\Debug\net8.0\ref\.NET-Projects.dll
